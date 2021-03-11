@@ -1,0 +1,128 @@
+.Covering{
+	width: 2000px;
+	margin: auto;
+}
+.Hold-header{
+	
+	width: 687px;
+	height: 60px;
+	background-color:steelblue;
+	overflow: hidden;
+}
+.Left-sign{
+    width: 687px;
+	height :6200px;
+	background-color:slateblue
+}
+.Content1{
+    width: 687px;
+	height: 600px;
+	background-color:slateblue;
+	float: left;
+}
+.Content2{
+	width: 687px;
+	height: 75px;
+	border-color:darkturquoise;
+	float: left;
+}
+.Content3{
+    width: 687px;
+	height: 5000px;
+	float: left;
+}
+.footer{
+	width: 1000px;
+	height:200px;
+	background-color: grey;
+	clear: both;
+}
+.right-content{
+	width: 2000px;
+	height:6800px;
+	background-color: honeydew;
+	float: left;
+}
+.paragraph{
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	line-height: 1.5;
+
+	text-align: justify;
+}
+.list{
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 300px;
+	font-style: italic;
+	text-align: justify;
+	color:firebrick;
+	line-height: 2;
+}
+.orderlist a{
+	font-size: 15px;
+    color:maroon;
+}
+.line{
+	border-color: black;
+}
+	background-color:khaki;
+	overflow: hidden;
+}
+.LeftBody{
+    width: 687px;
+	height :10800px;
+	background-color:plum;
+}
+.Body1{
+    width: 687px;
+	height: 600px;
+	background-color:plum;
+	float: left;
+}
+.Body2{
+	width: 687px;
+	height: 75px;
+	border-color:darkturquoise;
+	float: left;
+}
+.Body3{
+    width: 687px;
+	height: 6800px;
+	float: left;
+}
+.footer{
+	width: 1000px;
+	height:200px;
+	background-color: grey;
+	clear: both;
+}
+.right-content{
+	width: 2000px;
+	height:6800px;
+	background-color: honeydew;
+	float: left;
+}
+.paragraph{
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	line-height: 1.5;
+
+	text-align: justify;
+}
+.list{
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 300px;
+	font-style: italic;
+	text-align: justify;
+	color:blueviolet;
+	line-height: 2;
+}
+.orderlist{
+	font-size: 15px;
+    color: darkmagenta;
+}
+.line{
+	border-color: black;
+}
